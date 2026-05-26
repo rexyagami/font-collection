@@ -1,0 +1,901 @@
+@media (min-width: 1366px) and (max-width: 1600px) {
+  .sgc-hero{padding: 40px 44px;}
+  .sgc-hero-badge{
+    width: 186px;
+    height: 186px;
+  }
+  .sgc-hero-badge-inner img{
+    width: 204px;
+  }
+  .sgc-hero-badge{
+      right: 150px;
+  }
+  .sgc-hero::after{width: 320px;}
+  .sgc-sidebar{width: 240px;}
+  .sgc-content-wrap{left: 240px;}
+  .sgc-menu a{font-size: 12px;}
+  .sgc-hero-content h1{font-size: 36px;}
+  .pagemenu_section ul li a{font-size: 14px;}
+  .pagemenu_section ul li{margin: 0 16px;}
+  .sgc-section,.sgc-process-section,.sgc-footer{padding: 60px 40px;}
+  .sgc-number-card h3{font-size: 30px;}
+  .linedraw{background-size: 95%;}
+  .apply_card_content h4, .apply_card_content p{font-size: 14px;}
+  .step2_line{margin-top: 68px;}
+  .step3_line {margin-top: 48px;}
+  .step4_line {margin-top: 32px;}
+  .apply_card_content p.small_text,.apply_card_content ul li{font-size: 12px;}
+  .start_application_btn{padding: 12px 14px;}
+
+}
+@media (min-width: 1280px) and (max-width: 1360px) {
+  .sgc-hero-content h1{font-size: 26px;}
+  .sgc-hero-subtitle{font-size: 14px;}
+  .sgc-hero-text{font-size: 12px;}
+  .sgc-hero-badge{width: 196px;height: 196px;}
+  .pagemenu_section ul li{margin: 0 12px;}
+  .sgc-hero-btn,.pagemenu_section ul li a{font-size: 14px;}
+  .sgc-section{padding: 60px 20px;}
+  .sgc-number-card h3{font-size: 30px;}
+}
+@media (min-width: 992.01px) and (max-width: 1290px) {
+  .sgc-hero-content h1{font-size: 24px;}
+  .sgc-hero-subtitle{font-size: 14px;}
+  .sgc-hero{padding: 40px 44px;}
+  .sgc-hero-badge{
+    width: 186px;
+    height: 186px;
+  }
+  .sgc-hero-badge-inner img{
+    width: 204px;
+  }
+  .sgc-hero-badge{
+      right: 150px;
+  }
+  .sgc-hero-btn{font-size: 14px;}
+  .sgc-hero::after{width: 300px;}
+  .sgc-hero{min-height: 400px;}
+  .pagemenu_section ul li a{font-size: 12px;}
+  .pagemenu_section ul li{margin: 0 8px;}
+  .linedraw{background: none;}
+  .banner_home a.sgc-hero-btn{font-size: 10px; padding: 6px 20px;bottom: 10px;}
+
+
+}
+
+@media (max-width: 992px) {
+.reward-badge{
+    font-size:36px;
+    padding:20px 30px;
+}
+
+.reward-text{
+    font-size:24px;
+}
+}
+
+@media (max-width: 1199.98px){
+  .sgc-hero{
+    padding: 40px 50px;
+  }
+
+  .sgc-hero-badge{
+    right: 95px;
+  }
+
+  .sgc-section{
+    padding: 38px 40px 44px;
+  }
+  .sgc-application-strip{
+    padding: 48px 18px 52px;
+  }
+
+  .sgc-application-strip h2{
+    font-size: 25px;
+  }
+
+  .sgc-application-strip p{
+    font-size: 13px;
+    margin-bottom: 22px;
+  }
+  .sgc-number-card h3{
+    font-size: 34px;
+  }
+
+  .sgc-number-icon img{
+    width: 66px;
+    height: 66px;
+  }
+  .sgc-categories-section{
+    padding: 40px 28px 48px;
+  }
+  .sgc-eligibility-grid{
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 760px;
+  }
+
+  .sgc-eligibility-item:nth-child(5n)::after{
+    display: block;
+  }
+
+  .sgc-eligibility-item:nth-child(3n)::after{
+    display: none;
+  }
+  .sgc-timeline-wrap{
+    max-width: 980px;
+  }
+
+  .sgc-timeline-item{
+    width: 160px;
+  }
+
+  .sgc-timeline-content h4,
+  .sgc-timeline-content p{
+    font-size: 13px;
+  }
+  .sgc-appforms-top h1{
+    font-size: 38px;
+  }
+
+  .sgc-app-menu-no{
+    font-size: 26px;
+    flex-basis: 28px;
+  }
+
+  .sgc-app-menu-text{
+    font-size: 16px;
+  }
+
+  .sgc-app-content-card h2{
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 991.98px){
+  :root{
+    --sidebar-width: 90px;
+  }
+
+  .sgc-menu a span{
+    display: none;
+  }
+
+  .sgc-menu a{
+    justify-content: center;
+    padding: 11px 8px;
+  }
+
+  .sgc-hero{
+    padding: 34px 26px 170px;
+  }
+
+  .sgc-hero::after{
+    width: 250px;
+  }
+
+  .sgc-hero-content h1{
+    font-size: 28px;
+  }
+
+  .sgc-hero-badge{
+    right: 30px;
+    top: auto;
+    bottom: 24px;
+    transform: none;
+    width: 145px;
+    height: 145px;
+  }
+
+  .sgc-section{
+    padding: 32px 26px 38px;
+  }
+    .sgc-numbers-section{
+    padding: 46px 24px 54px;
+  }
+
+  .sgc-section-head{
+    margin-bottom: 30px;
+  }
+
+  .sgc-section-head h2{
+    font-size: 28px;
+  }
+
+  .sgc-number-card{
+    min-height: 220px;
+  }
+
+  .sgc-number-card h3{
+    font-size: 32px;
+  }
+    .sgc-categories-section{
+    padding: 36px 22px 42px;
+  }
+
+  .sgc-cat-left{
+    padding-right: 0;
+  }
+
+  .sgc-theme-wrap{
+    padding-left: 0;
+  }
+
+  .sgc-cat-title{
+    font-size: 22px;
+  }
+
+  .sgc-cat-subtitle{
+    font-size: 18px;
+  }
+
+  .sgc-cat-image-grid img{
+    height: 180px;
+  }
+    .sgc-eligibility-section{
+    padding: 46px 24px 50px;
+  }
+
+  .sgc-eligibility-head h2{
+    font-size: 28px;
+  }
+
+  .sgc-eligibility-head p{
+    font-size: 15px;
+  }
+
+  .sgc-eligibility-grid{
+    gap: 24px 0;
+  }
+
+  .sgc-eligibility-note{
+    margin-top: 34px;
+  }
+
+  .sgc-eligibility-note p{
+    font-size: 15px;
+  }
+  .sgc-process-section{
+    padding: 24px 24px 28px;
+  }
+
+  .sgc-process-head h2{
+    font-size: 22px;
+  }
+  .sgc-timeline-section{
+    padding: 30px 22px 34px;
+  }
+
+  .sgc-timeline-wrap{
+    padding: 20px 0 0;
+  }
+
+  .sgc-timeline-line{
+    display: none;
+  }
+
+  .sgc-timeline-items{
+    min-height: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+  }
+
+  .sgc-timeline-item{
+    position: relative;
+    left: auto !important;
+    top: auto !important;
+    width: 100%;
+    transform: none !important;
+    background: rgba(255,255,255,0.32);
+    border: 1px solid rgba(217,167,27,0.22);
+    border-radius: 14px;
+    padding: 16px 14px;
+  }
+
+  .sgc-timeline-item.top .sgc-timeline-content,
+  .sgc-timeline-item.bottom .sgc-timeline-content{
+    margin: 12px 0 0;
+  }
+
+  .sgc-timeline-head{
+    margin-bottom: 18px;
+  }
+
+  .sgc-timeline-head h2{
+    font-size: 22px;
+  }
+  .sgc-footer{
+    padding: 30px 24px 22px;
+  }
+
+  .sgc-footer-top{
+    padding-bottom: 20px;
+  }
+
+  .sgc-footer-form input{
+    max-width: 100%;
+  }
+    .sgc-appforms-page{
+    padding: 24px 22px 24px;
+  }
+
+  .sgc-appforms-top{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sgc-appforms-top h1{
+    font-size: 34px;
+  }
+
+  .sgc-lang-switch{
+    margin-top: 4px;
+  }
+
+  .sgc-app-content-card{
+    padding: 22px 24px 28px;
+  }
+
+  .sgc-app-content-card h2{
+    font-size: 22px;
+  }
+
+  .sgc-app-content-text p{
+    font-size: 14px;
+  }
+
+}
+@media (min-width: 767.01px) and (max-width: 992px) {
+  .steps-wrapper .steps-row {
+    padding: 0 15px 30px 40px;
+    font-size: 14px;
+  }
+  .steps-wrapper .steps-row > .row {
+    margin: 0 -30px;
+  }
+  .steps-wrapper .steps-row .row > div {
+    padding: 0 30px;
+  }
+  .steps-wrapper .steps-row::after {
+    border-radius: 0 40px 40px 0;
+  }
+  .steps-wrapper .steps-row:nth-child(even)::after {
+    border-radius: 40px 0 0 40px;
+  }
+  .sgc-section{padding: 60px 20px;}
+  .sgc-number-card h3{font-size: 20px;}
+  .sgc-number-card p{font-size: 14px;}
+} 
+
+@media (max-width: 767.98px){
+  :root{
+    --topbar-height: 68px;
+    --sidebar-width: 76px;
+  }
+
+  .sgc-top-header{
+    padding: 10px 14px;
+  }
+
+  .sgc-header-logo img{
+    width: 52px;
+  }
+
+  .sgc-header-btn{
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+
+  .sgc-sidebar{
+    padding: 16px 8px;
+    display: none;
+  }
+  .sgc-sidebar.active{
+    display: block;
+    width: 220px;
+  }
+.sgc-menu a span{display: inline-block;}
+  .sgc-menu{
+    gap: 10px;
+  }
+
+  .sgc-menu a{
+    font-size: 14px;
+    justify-content: left;
+  }
+
+  .sgc-menu a img{
+    width: 18px;
+    height: 18px;
+  }
+
+  .sgc-hero{
+    min-height: auto;
+    padding: 28px 16px 35px;
+  }
+
+
+  .sgc-hero-content h1{
+    font-size: 24px;
+  }
+
+  .sgc-hero-subtitle{
+    font-size: 13px;
+  }
+
+  .sgc-hero-text{
+    font-size: 12px;
+  }
+
+  .sgc-hero::after{
+    width: 100px;
+  }
+
+  .sgc-hero-badge{
+    width: 100px;
+    height: 100px;
+    right: 18px;
+    bottom: 36%;
+  }
+
+  .sgc-hero-badge-inner img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 0;
+  }
+
+  .sgc-hero-badge-inner h3{
+    font-size: 13px;
+  }
+
+  .sgc-hero-badge-inner p{
+    font-size: 8px;
+  }
+
+  .sgc-section{
+    padding: 26px 16px 32px;
+  }
+
+  .about-heading{
+    font-size: 24px;
+  }
+
+  .about-heading small{
+    font-size: 15px;
+  }
+
+  .about-logo-box{
+    margin-top: 8px;
+  }
+    .sgc-application-strip{
+    padding: 40px 16px 44px;
+  }
+
+  .sgc-app-icon img{
+    width: 28px;
+    height: 28px;
+  }
+
+  .sgc-application-strip h2{
+    font-size: 22px;
+  }
+
+  .sgc-application-strip p{
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  .sgc-app-btn{
+    min-width: 170px;
+    min-height: 42px;
+    font-size: 13px;
+    padding: 10px 18px;
+    border-radius: 8px;
+  }
+
+   .sgc-numbers-section{
+    padding: 38px 16px 42px;
+  }
+
+  .sgc-section-head h2{
+    font-size: 24px;
+  }
+
+  .sgc-section-head p{
+    font-size: 13px;
+  }
+
+  .sgc-number-card{
+    min-height: 200px;
+    padding: 24px 18px;
+    border-radius: 10px;
+  }
+
+  .sgc-number-icon{
+    margin-bottom: 14px;
+  }
+
+  .sgc-number-icon img{
+    width: 56px;
+    height: 56px;
+  }
+
+  .sgc-number-card h3{
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+
+  .sgc-number-card p{
+    font-size: 13px;
+  }
+  .sgc-categories-section{
+    padding: 30px 16px 34px;
+  }
+
+  .sgc-cat-title{
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+
+  .sgc-cat-subtitle{
+    font-size: 17px;
+    margin: 20px 0 12px;
+  }
+
+  .sgc-cat-text p,
+  .sgc-acc-item .accordion-body,
+  .sgc-acc-item .accordion-body ul li{
+    font-size: 12.5px;
+  }
+
+  .sgc-acc-item .accordion-button{
+    font-size: 13px;
+    padding: 14px 14px 14px 12px;
+  }
+
+  .sgc-acc-item .accordion-button::after{
+    font-size: 28px;
+  }
+
+  .sgc-cat-image-grid img{
+    height: 135px;
+  }
+  .sgc-eligibility-section{
+    padding: 38px 16px 40px;
+  }
+
+  .sgc-eligibility-head{
+    margin-bottom: 24px;
+  }
+
+  .sgc-eligibility-head h2{
+    font-size: 24px;
+  }
+
+  .sgc-eligibility-head p{
+    font-size: 14px;
+  }
+
+  .sgc-eligibility-grid{
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 100%;
+    gap: 18px 0;
+  }
+
+  .sgc-eligibility-item{
+    padding: 8px 14px 16px;
+  }
+
+  .sgc-eligibility-item::after{
+    height: 82px;
+  }
+
+  .sgc-eligibility-item:nth-child(3n)::after{
+    display: block;
+  }
+
+  .sgc-eligibility-item:nth-child(2n)::after{
+    display: none;
+  }
+
+  .sgc-eligibility-icon{
+    margin-bottom: 10px;
+  }
+
+  .sgc-eligibility-icon img{
+    width: 30px;
+    height: 30px;
+  }
+
+  .sgc-eligibility-item h4{
+    font-size: 12px;
+    line-height: 1.55;
+  }
+
+  .sgc-eligibility-note{
+    margin-top: 26px;
+  }
+
+  .sgc-eligibility-note p{
+    font-size: 13px;
+    line-height: 1.6;
+  }
+    .sgc-process-section{
+    padding: 22px 16px 24px;
+  }
+
+  .sgc-process-head{
+    margin-bottom: 14px;
+  }
+
+  .sgc-process-head h2{
+    font-size: 20px;
+  }
+
+  .sgc-process-card{
+    min-height: 60px;
+    padding: 16px 16px;
+    border-radius: 8px;
+    min-height: 110px;
+  }
+
+  .sgc-process-no{
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .sgc-process-card h4{
+    font-size: 13px;
+  }
+  .sgc-timeline-section{
+    padding: 26px 16px 30px;
+  }
+
+  .sgc-timeline-items{
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .sgc-timeline-head h2{
+    font-size: 20px;
+  }
+
+  .sgc-timeline-icon{
+    width: 60px;
+    height: 60px;
+  }
+
+  .sgc-timeline-icon img{
+    width: 24px;
+    height: 24px;
+  }
+
+  .sgc-timeline-content h4,
+  .sgc-timeline-content p{
+    font-size: 13px;
+  }
+    .sgc-footer{
+    padding: 26px 16px 20px;
+  }
+
+  .sgc-footer-col h3{
+    font-size: 15px;
+    margin-bottom: 14px;
+  }
+
+  .sgc-footer-contact li,
+  .sgc-footer-links a,
+  .sgc-footer-newsletter label{
+    font-size: 13px;
+  }
+
+  .sgc-footer-social{
+    margin-bottom: 14px;
+  }
+
+  .sgc-footer-form{
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .sgc-footer-form input,
+  .sgc-footer-form button{
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .sgc-footer-bottom{
+    padding-top: 18px;
+  }
+
+  .sgc-footer-bottom p{
+    font-size: 12px;
+  }
+  .sgc-appforms-page{
+    padding: 22px 16px 20px;
+  }
+
+  .sgc-appforms-top h1{
+    font-size: 28px;
+  }
+
+  .sgc-lang-switch a{
+    min-width: 72px;
+    height: 32px;
+    font-size: 14px;
+    border-radius: 8px;
+  }
+
+  .sgc-app-menu-item{
+    padding: 12px 14px;
+    border-radius: 8px;
+  }
+
+  .sgc-app-menu-no{
+    font-size: 22px;
+    flex-basis: 26px;
+  }
+
+  .sgc-app-menu-text{
+    font-size: 15px;
+  }
+
+  .sgc-app-content-card{
+    border-radius: 14px;
+    padding: 20px 16px 22px;
+  }
+
+  .sgc-app-content-card h2{
+    font-size: 20px;
+  }
+
+  .sgc-app-readmore-btn{
+    min-width: 96px;
+    height: 38px;
+    font-size: 14px;
+  }
+
+  .sgc-app-content-text p{
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  .sgc-content-wrap{
+    left: 0;
+  }
+  .sgc-hero-text{margin-bottom: 20px;}
+  .sgc-hero-subtitle{margin: 8px 0;}
+  .sgc-hero-content{max-width: 60%;}
+  .sgc-hero-btn{font-size: 14px;}
+  .pagemenu_section ul li a{font-size: 10px;}
+  .sgc-eligibility-item:nth-child(5n)::after{display: none;}
+  .about-subtitle{font-size: 18px;}
+  .about-logo-box{margin-left: 0;}
+  .about-logo-inner img {width: 180px;}
+  .sgc-eligibility-grid{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .sgc-eligibility-item{
+    border-bottom: none;
+    flex: 0 0 50%;
+  }
+  .how_to_apply h2,.steps-section h2 {font-size: 26px;}
+  .linedraw{background: none;}
+  .step_box{width: 80px;height: 80px;font-size: 16px;}
+  .apply_card_content {padding-right: 0;}
+  .apply_card {padding: 10px;}
+  .apply_card_content h4, .apply_card_content p{font-size: 12px;}
+  .apply_card_content h4 { margin-bottom: 8px;}
+  .step2_line {margin-top: 0;padding-left: 0;}
+  .inner-banner h1{font-size: 26px;}
+  #nav-icon3 {display: block;}
+  .media-card-parent{min-height: 200px;}
+  .pagemenu_section ul li{margin: 0 4px;}
+  .pagemenu_section ul{padding: 0px 0;}
+  .pagemenu_section ul li a:after{height: 2px;bottom: -3px;}
+    .how_to_apply_mobile,.mobile_show{display: block;}
+  .how_to_apply_desktop,.desktop_show{display: none;}
+  .how_to_apply .row{flex-wrap: wrap;}
+  .how_to_apply .col-lg-4{width: 50%;}
+  .apply_card_content p.small_text{font-size: 11px; }
+  .apply_card_content ul{font-size: 12px;}
+  .start_application_btn{padding: 14px 20px;margin-top: 20px;font-size: 14px;}
+    #about,
+    #Challenge_Categories,
+    #EligibilityCriteria,
+    #How_to_Apply,
+    #Process,
+    #Timelines,
+    #Winners,
+    #How_to_Apply2 {
+        scroll-margin-top: 70px;
+    }
+    .steps-wrapper .steps-row {
+        padding: 0 0 30px;
+      }
+      .steps-wrapper .steps-row:first-child > .row > div:first-child::after,
+      .steps-wrapper .steps-row::after {
+        display: none;
+      }
+      .steps-wrapper .steps-card {
+        display: flex;
+        gap: 15px;
+        padding-bottom: 20px;
+      }
+      .steps-card .steps-box {
+        flex: 0 0 90px;
+        height: 90px;
+      }
+      .steps-wrapper::after {
+        content: "";
+        width: 1px;
+        height: calc(100% - 200px);
+        border-left: 2px solid #ec7d44;
+        position: absolute;
+        left: 45px;
+        top: 0;
+      }
+      .steps-wrapper .steps-row > .row {
+        margin: 0 -15px;
+      }
+      .steps-wrapper .steps-row .row > div {
+        padding: 0 15px;
+      }
+      .faq-section.container.my-5{
+          padding: 0 30px !important;
+      }
+      .faq-section .faq-title{
+          font-size: 20px;
+      }
+      .inner-banner{padding: 0 20px;}
+      .resource_section{padding: 30px 20px;}
+      .resource_Card{margin-top: 20px;}
+      .sgc-process-section .col-md-6{width: 50%;}
+      .sgc-timeline-wrap .sgc-timeline-item.item-1.top,
+      .sgc-timeline-wrap .sgc-timeline-item.item-3.top,
+      .sgc-timeline-wrap .sgc-timeline-item.item-5.top{display: flex;flex-direction: column-reverse;}
+      .sgc-process-head h2, .commaon_heading{font-size: 26px;}
+      .winner_icons{
+          width: 94px;
+          height: 94px;
+      }
+      .winner_icons img{width: 50px;}
+      .winner_box p{font-size: 16px;}
+      .reward-box{
+            padding:30px 18px 25px;
+            border-radius:24px;
+        }
+
+        .reward-badge{
+            font-size:24px;
+            padding:18px 20px;
+            border-radius:60px;
+        }
+
+        .reward-text{
+            font-size:18px;
+            line-height:1.5;
+        }
+        .banner_home a.sgc-hero-btn{
+          left: 10px;
+          bottom: 0px;
+          font-size: 8px;
+          padding: 4px 14px;
+        }
+
+}
+
+@media (max-width: 479.98px){
+  
+  .sgc-eligibility-item::after,
+  .sgc-eligibility-item:nth-child(2n)::after,
+  .sgc-eligibility-item:nth-child(3n)::after{
+    display: none;
+  }
+
+
+  .sgc-eligibility-item:last-child{
+    border-bottom: none;
+  }
+}
